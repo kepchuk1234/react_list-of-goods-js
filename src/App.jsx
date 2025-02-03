@@ -34,7 +34,7 @@ function getSorted(goods, { sortField, isReversed }) {
         break;
 
       default:
-        return;
+        preperedGoods;
     }
   }
 
